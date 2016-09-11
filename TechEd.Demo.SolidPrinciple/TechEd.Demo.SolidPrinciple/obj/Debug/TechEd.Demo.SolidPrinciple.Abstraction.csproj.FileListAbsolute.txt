@@ -1,0 +1,8 @@
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\bin\Debug\TechEd.Demo.SolidPrinciple.exe.config
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\bin\Debug\TechEd.Demo.SolidPrinciple.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\bin\Debug\TechEd.Demo.SolidPrinciple.pdb
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\bin\Debug\Newtonsoft.Json.dll
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\bin\Debug\Newtonsoft.Json.xml
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\obj\Debug\TechEd.Demo.SolidPrinciple.Abstraction.csprojResolveAssemblyReference.cache
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\obj\Debug\TechEd.Demo.SolidPrinciple.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple\obj\Debug\TechEd.Demo.SolidPrinciple.pdb

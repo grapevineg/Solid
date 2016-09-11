@@ -1,0 +1,5 @@
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple.Refectored\bin\Debug\TechEd.Demo.SolidPrinciple.Refectored.exe.config
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple.Refectored\bin\Debug\TechEd.Demo.SolidPrinciple.Refectored.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple.Refectored\bin\Debug\TechEd.Demo.SolidPrinciple.Refectored.pdb
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple.Refectored\obj\Debug\TechEd.Demo.SolidPrinciple.Refectored.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple.Refectored\obj\Debug\TechEd.Demo.SolidPrinciple.Refectored.pdb

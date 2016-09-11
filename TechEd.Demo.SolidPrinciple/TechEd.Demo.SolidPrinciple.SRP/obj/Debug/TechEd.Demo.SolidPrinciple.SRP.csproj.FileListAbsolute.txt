@@ -1,0 +1,5 @@
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.SRP\bin\Debug\TechEd.Demo.SolidPrinciple.SRP.exe.config
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.SRP\bin\Debug\TechEd.Demo.SolidPrinciple.SRP.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.SRP\bin\Debug\TechEd.Demo.SolidPrinciple.SRP.pdb
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.SRP\obj\Debug\TechEd.Demo.SolidPrinciple.SRP.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.SRP\obj\Debug\TechEd.Demo.SolidPrinciple.SRP.pdb

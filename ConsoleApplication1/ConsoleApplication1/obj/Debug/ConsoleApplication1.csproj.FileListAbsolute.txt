@@ -1,0 +1,6 @@
+D:\Punit\Solid_Principle\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Punit\Solid_Principle\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Punit\Solid_Principle\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Punit\Solid_Principle\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Punit\Solid_Principle\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Punit\Solid_Principle\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

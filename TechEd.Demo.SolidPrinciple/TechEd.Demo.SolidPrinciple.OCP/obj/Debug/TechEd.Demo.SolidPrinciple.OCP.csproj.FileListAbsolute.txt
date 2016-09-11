@@ -1,0 +1,6 @@
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.OCP\bin\Debug\TechEd.Demo.SolidPrinciple.OCP.exe.config
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.OCP\bin\Debug\TechEd.Demo.SolidPrinciple.OCP.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.OCP\bin\Debug\TechEd.Demo.SolidPrinciple.OCP.pdb
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.OCP\obj\Debug\TechEd.Demo.SolidPrinciple.OCP.csprojResolveAssemblyReference.cache
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.OCP\obj\Debug\TechEd.Demo.SolidPrinciple.OCP.exe
+D:\Punit\Solid_Principle\TechEd.Demo.SolidPrinciple\TechEd.Demo.SolidPrinciple.OCP\obj\Debug\TechEd.Demo.SolidPrinciple.OCP.pdb
